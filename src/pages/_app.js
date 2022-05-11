@@ -22,7 +22,11 @@ function MyApp({ Component, pageProps }) {
         <meta name="theme-color" content="#ffffff" />
         <meta name="twitter:card" content="summary" key="twcard" />
         <meta property="og:url" content={currentURL} key="ogurl" />
-        <meta property="og:image" content={Me} key="ogimage" />
+        <meta
+          property="og:image"
+          content="https://res.cloudinary.com/juniorwembopa243/image/upload/v1652275181/me2_dcyeo1.jpg"
+          key="ogimage"
+        />
         <meta property="og:site_name" content={siteName} key="ogsitename" />
         <meta property="og:title" content={pageTitle} key="ogtitle" />
         <meta property="og:description" content={description} key="ogdesc" />
