@@ -24,7 +24,7 @@ function MyApp({ Component, pageProps }) {
         <meta property="og:url" content={currentURL} key="ogurl" />
         <meta
           property="og:image"
-          content="https://res.cloudinary.com/juniorwembopa243/image/upload/v1652275181/me2_dcyeo1.jpg"
+          content="https://res.cloudinary.com/juniorwembopa243/image/upload/v1652275804/IMG_2067_q1wte4.jpg"
           key="ogimage"
         />
         <meta property="og:site_name" content={siteName} key="ogsitename" />

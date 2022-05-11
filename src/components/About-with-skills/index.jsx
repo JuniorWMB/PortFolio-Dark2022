@@ -18,9 +18,9 @@ const AboutWithSkills = () => {
                 <span></span>
               </div>
               <h3 className="main-title wow" data-splitting>
-              Ma mission est de vous proposer les meilleurs services pour le développement de vos sites web & Web App.              </h3>
+              Ma mission est de vous proposer les meilleurs services pour le développement de vos sites & application web.</h3>
               <p className="wow fadeInUp" data-wow-delay=".5s">
-                Hello! Je suis Junior Wembopa. Développeur Web basé en FRANCE et au UK. {`J'ai `}une riche experience dans le développement web, dans le digital en globalité et je suis bon aussi sur wordpress. {`J'adorerais`} parler avec vous de votre projet.
+              Hello! Je suis Junior Wembopa. Développeur Web basé en France et en Angleterre. {`J'ai`} une riche experience dans le développement web (incluant React, Node, JavaScript et WordPress) et dans le digital en globalité. {`J'adorerais`} échanger avec vous et vous accompagner dans l’élaboration et développement de vos projets web.
               </p>
               <a href="img/intro/CV_Junior_Wembopa_Dev_FullStack2022.pdf" className="simple-btn mt-40" download>
                 Telecharger C.V
