@@ -54,10 +54,9 @@ const Works3Dark = () => {
             <div className="col-lg-9 col-md-11 static">
               <div className="capt mt-50">
                 <div className="parlx">
-                  <h2 className="custom-font">Mes Magnifique Projets</h2>
+                  <h2 className="custom-font">Mes projets innovants</h2>
                   <p>
-                    Le chemin de la creativité pour montrer le absolument le meilleur de mon travail.
-                  </p>
+                  Voici une sélection des projets récemment réalisé et découvrez l’étendu de ma créativité.                  </p>
                 </div>
 
                 <div className="bactxt custom-font valign">

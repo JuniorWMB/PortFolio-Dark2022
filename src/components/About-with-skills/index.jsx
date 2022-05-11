@@ -18,12 +18,11 @@ const AboutWithSkills = () => {
                 <span></span>
               </div>
               <h3 className="main-title wow" data-splitting>
-                Ma Mission est de vous donnez le meilleur site web des alentours.
-              </h3>
+              Ma mission est de vous proposer les meilleurs services pour le développement de vos sites web & Web App.              </h3>
               <p className="wow fadeInUp" data-wow-delay=".5s">
                 Hello! Je suis Junior Wembopa. Développeur Web basé en FRANCE et au UK. {`J'ai `}une riche experience dans le développement web, dans le digital en globalité et je suis bon aussi sur wordpress. {`J'adorerais`} parler avec vous de votre projet.
               </p>
-              <a href="img/intro/CV-Junior Wembopa2022.pdf" className="simple-btn mt-40" download>
+              <a href="img/intro/CV_Junior_Wembopa_Dev_FullStack2022.pdf" className="simple-btn mt-40" download>
                 Telecharger C.V
               </a>
             </div>

@@ -3,18 +3,18 @@
         "id": 1,
         "title": "Digital Marketing",
         "icon": "pe-7s-gleam",
-        "content": "Gestion des reseaux sociaux, mise en place Google analyctique."
+        "content": "Mise en place & configuration de Google Analytics."
     },
     {
       "id": 2,
       "title": "Web & App Development",
       "icon": "pe-7s-phone",
-      "content": "Conception from Scratch ou reprise d'un projet en front ou en back."
+      "content": "Conception de site web de A à Z, Reprise de projet front et/ou back end en cours."
     },
     {
       "id": 3,
       "title": "Graphic Design",
       "icon": "pe-7s-magic-wand",
-      "content": "Création maquette et logo pour votre site, votre entreprise ou votre image."
+      "content": "Création de l’identité visuel de votre entreprise/site web."
     }
 ]

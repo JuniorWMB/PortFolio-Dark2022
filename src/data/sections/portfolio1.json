@@ -13,7 +13,7 @@
     "image": "/img/portfolio/mas/eve.jpeg",
     "title": "Eve Consulting",
     "slug":"Eve-Consulting",
-    "web":"https://www.juniorwembopaportfolio.com/",
+    "web":"https://digital-eve-consulting.netlify.app/",
     "tags": ["Nextjs", "Nodejs","TailwindCss","Sendgrid","Calendly"],
     "filterCategory": ["vitrine"]
   },
@@ -22,7 +22,7 @@
     "image": "/img/portfolio/mas/test.jpg",
     "title": "MyBoxMobile",
     "slug":"MyBoxMobile",
-    "web":"https://www.juniorwembopaportfolio.com/", 
+    "web":"https://github.com/JuniorWMB/my-boxmobile-project", 
     "tags": ["Gatsbyjs", "WordPress","Netlify Forms","SnipCart","Zapier"],
     "filterCategory": ["ecommerce"]
   },
@@ -40,8 +40,8 @@
     "image": "/img/portfolio/mas/10.jpg",
     "title": "Iguane Transport",
     "slug":"Iguane-Transport",
-    "web":"https://www.juniorwembopaportfolio.com/",
-    "tags": ["React", "SnipCart","Nodejs","Stripe"],
+    "web":"https://github.com/JuniorWMB/IG-TRANSPORT",
+    "tags": ["React", "SnipCart","Nodejs"],
     "filterCategory": ["ecommerce"]
   }
 ]

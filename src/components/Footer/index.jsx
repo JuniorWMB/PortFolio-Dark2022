@@ -29,7 +29,7 @@ const Footer = () => {
                     <span>Email : </span> junior.wembopa@gmail.com
                   </li>
                   <li>
-                    <span>Adresse : </span> 13 Square des Cottages
+                    <span>Adresse : </span> 13 Square des Cottages 91200
                   </li>
                   <li>
                     <span>Portable : </span> (+33) 6 46 68 80 02

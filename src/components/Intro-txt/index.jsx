@@ -11,7 +11,7 @@ const IntroTxt = ({subBG}) => {
         <div className="row">
           <div className="col-lg-6">
             <div className="cont">
-              <h6>Hi, Je suis</h6>
+              <h6>Hello, Je suis</h6>
               <h1>Junior Wembopa</h1>
               <h4>Développeur FullStack React &amp; Nodejs</h4>
               <div className="social-icon">
