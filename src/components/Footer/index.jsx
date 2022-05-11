@@ -29,7 +29,7 @@ const Footer = () => {
                     <span>Email : </span> junior.wembopa@gmail.com
                   </li>
                   <li>
-                    <span>Adresse : </span> 13 Square des Cottages 91200
+                    <span>Adresse : </span> 13 Square des Cottages 91200 Athis-Mons
                   </li>
                   <li>
                     <span>Portable : </span> (+33) 6 46 68 80 02
@@ -37,7 +37,7 @@ const Footer = () => {
                 </ul>
               </div>
               <div className="social-icon">
-                <h6 className="custom-font stit simple-btn">Suivez moi</h6>
+                <h6 className="custom-font stit simple-btn">Suivez-moi</h6>
                 <div className="social">
                 <a href="https://www.instagram.com/junior_the_webdeveloper/" className="icon">
                   <i className="fab fa-instagram"></i>

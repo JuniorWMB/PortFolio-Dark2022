@@ -53,14 +53,14 @@ class Testimonials1 extends React.Component {
         <div className="container position-re">
           <div className="sec-head custom-font text-center">
             <h6 className="wow fadeIn" data-wow-delay=".5s">
-              Que dise les clients ?
+              Que disent les clients ?
             </h6>
             <Split>
               <h3 className="wow words chars splitting" data-splitting>
-                Temoignage.
+                Temoignages.
               </h3>
             </Split>
-            <span className="tbg">Temoignage</span>
+            <span className="tbg">Temoignages</span>
           </div>
           <div
             className="row justify-content-center wow fadeInUp"
