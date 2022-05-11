@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "/img/portfolio/mas/7.jpg",
+    "title": "Adjama Excellency",
+    "slug":"Adjama-Excellency",
+    "web":"https://adjamaexcellency.com/",
+    "tags": ["Nextjs", "Nodejs","TailwindCss","Stripe","Sendgrid","Google Analyctics","Google Places"],
+    "filterCategory": ["marketplace"]
+  },
+  {
+    "id": 2,
+    "image": "/img/portfolio/mas/eve.jpeg",
+    "title": "Eve Consulting",
+    "slug":"Eve-Consulting",
+    "web":"https://www.juniorwembopaportfolio.com/",
+    "tags": ["Nextjs", "Nodejs","TailwindCss","Sendgrid","Calendly"],
+    "filterCategory": ["vitrine"]
+  },
+  {
+    "id": 3,
+    "image": "/img/portfolio/mas/test.jpg",
+    "title": "MyBoxMobile",
+    "slug":"MyBoxMobile",
+    "web":"https://www.juniorwembopaportfolio.com/", 
+    "tags": ["Gatsbyjs", "WordPress","Netlify Forms","SnipCart","Zapier"],
+    "filterCategory": ["ecommerce"]
+  },
+  {
+    "id": 4,
+    "image": "/img/portfolio/mas/vl.webp",
+    "title": "Vlonesiebrand",
+    "slug":"Vlonesiebrand",
+    "web":"https://www.vlonesiebrand.com/",
+    "tags": ["React", "Gsap","Bootstrap","Nodejs"],
+    "filterCategory": ["ecommerce"]
+  },
+  {
+    "id": 5,
+    "image": "/img/portfolio/mas/10.jpg",
+    "title": "Iguane Transport",
+    "slug":"Iguane-Transport",
+    "web":"https://www.juniorwembopaportfolio.com/",
+    "tags": ["React", "SnipCart","Nodejs","Stripe"],
+    "filterCategory": ["ecommerce"]
+  }
+]

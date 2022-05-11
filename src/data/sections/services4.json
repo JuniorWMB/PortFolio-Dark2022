@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Marketing",
+        "icon": "pe-7s-gleam",
+        "content": "Gestion des reseaux sociaux, mise en place Google analyctique."
+    },
+    {
+      "id": 2,
+      "title": "Web & App Development",
+      "icon": "pe-7s-phone",
+      "content": "Conception from Scratch ou reprise d'un projet en front ou en back."
+    },
+    {
+      "id": 3,
+      "title": "Graphic Design",
+      "icon": "pe-7s-magic-wand",
+      "content": "Création maquette et logo pour votre site, votre entreprise ou votre image."
+    }
+]
