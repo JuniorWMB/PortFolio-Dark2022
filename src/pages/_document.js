@@ -13,15 +13,12 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta
-            name="keywords"
-            content="HTML5 Template Avo onepage themeforest"
-          />
+          <meta name="keywords" content="Portfolio Junior Wembopa" />
           <meta
             name="description"
-            content="Avo - Onepage Multi-Purpose HTML5 Template"
+            content="Portfolio Developpeur Web Javascript Nextjs Nodejs Junior Wembopa"
           />
-          <meta name="author" content="" />
+          <meta name="author" content="Junior Wembopa" />
           <link rel="shortcut icon" href="/img/favicon.ico" />
           {/* Google Fonts */}
           <link
