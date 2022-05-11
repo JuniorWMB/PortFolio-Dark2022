@@ -4,13 +4,28 @@ import Script from "next/script";
 import Cursor from "../components/Cursor";
 import ScrollToTop from "../components/Scroll-to-top";
 import LoadingScreen from "../components/Loading-Screen";
+import Me from "../../public/img/intro/me.png";
 import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
+  const currentURL = "https://www.juniorwembopaportfolio.com/";
+  const siteName = "Junior Wembopa PortFolio Dev. FullStack Nodejs Nextjs";
+  const pageTitle = "Junior Wembopa PortFolio Dev. FullStack Nodejs Nextjs";
+  const description =
+    "Je vous aide a la création de votre site web ou app web Javascript, Nextjs, Nodejs...";
   return (
     <>
       <Head>
         <title>JNR Freelance</title>
+
+        <meta name="msapplication-TileColor" content="#da532c" />
+        <meta name="theme-color" content="#ffffff" />
+        <meta name="twitter:card" content="summary" key="twcard" />
+        <meta property="og:url" content={currentURL} key="ogurl" />
+        <meta property="og:image" content={Me} key="ogimage" />
+        <meta property="og:site_name" content={siteName} key="ogsitename" />
+        <meta property="og:title" content={pageTitle} key="ogtitle" />
+        <meta property="og:description" content={description} key="ogdesc" />
         {/* <link rel="icon" href="/img/favicon.ico" /> */}
       </Head>
       <Cursor />
