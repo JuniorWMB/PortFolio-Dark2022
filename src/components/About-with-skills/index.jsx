@@ -23,7 +23,7 @@ const AboutWithSkills = () => {
               <p className="wow fadeInUp" data-wow-delay=".5s">
                 Hello! Je suis Junior Wembopa. Développeur Web basé en FRANCE et au UK. {`J'ai `}une riche experience dans le développement web, dans le digital en globalité et je suis bon aussi sur wordpress. {`J'adorerais`} parler avec vous de votre projet.
               </p>
-              <a href="#0" className="simple-btn mt-40">
+              <a href="img/intro/CV-Junior Wembopa2022.pdf" className="simple-btn mt-40" download>
                 Telecharger C.V
               </a>
             </div>
